@@ -1,0 +1,113 @@
+body {
+  margin: 40px;
+  background-color: #DDF3FA;
+}
+
+p {
+  font-size-adjust: auto;
+  font-family: 'Ubuntu', sans-serif;
+  word-spacing: 3px;
+  margin-top: 8px;
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+
+.top_div {
+  font-family: 'Ubuntu', sans-serif;
+  height: 160px;
+  width: 200px;
+  float: left;
+  display: flex;
+  flex-direction: row;
+  padding-left: 10px;
+}
+
+.inner_div {
+  font-family: sans-serif;
+  padding-left: auto;
+  text-align: left;
+}
+
+#name {
+  margin-bottom: 0px;
+  margin-top: 5px;
+  margin-left: 10px;
+  font-size: 50px;
+}
+
+#center {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.image {
+  border-radius: 50%;
+}
+
+.skills {
+  background-color: #CECECE;
+  padding: 8px;
+  font-style: normal;
+  font-family: sans-serif;
+  border-radius: 8px;
+  margin: 7px;
+  margin-top: 10px;
+}
+
+.links {
+  display: inline-flex;
+  position: static;
+  top: 10px;
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  padding-left: 20px;
+  padding-right: 10px;
+}
+
+.mail {
+  padding-left: 5px;
+  padding-right: 20px;
+}
+
+.contect_right {
+  float: right;
+  height: 50%;
+  width: 50%;
+}
+
+.row {
+  margin-bottom: 25px;
+}
+
+.content_left {
+  text-align: left;
+  float: left;
+  height: 50%;
+  width: 50%;
+}
+
+.opacity_role {
+  opacity: 0.5;
+  margin-top: 5px;
+}
+
+.heading {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-family: sans-serif;
+  font-size: 30px;
+}
+
+.heading_skills {
+  font-family: sans-serif;
+  font-size: 30px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
